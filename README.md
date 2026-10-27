@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="1170" height="217" alt="IMG_8501" src="https://github.com/user-attachments/assets/e83629d9-1076-4915-ad1b-bd908a2e4eee" />
+<img width="765" height="185" alt="IMG_8503" src="https://github.com/user-attachments/assets/9c9adcbd-b215-4418-9cd0-eaf82316ae5c" />
+
 
 <!--
 **kittyypop/kittyypop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
